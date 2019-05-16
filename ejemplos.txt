@@ -1,0 +1,11 @@
+https://forum.lazarus.freepascal.org/index.php?topic=13192.0
+Ejemplo de busqueda
+
+http://wiki.freepascal.org/Exceptions#Error_handling
+Error handling
+
+
+sqlhow to
+http://wiki.lazarus.freepascal.org/SqlDBHowto
+
+
